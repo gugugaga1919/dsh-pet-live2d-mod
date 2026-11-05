@@ -12,6 +12,7 @@
 | 原画及拆分 | **神宫凉子** |
 | Live2D 建模 | **霓虹猫_NeonNeko** |
 | 模型来源 | 神宫凉子免费配布模型 |
+| 获取地址（B 站工房） | [https://gf.bilibili.com/item/detail/1109618072](https://gf.bilibili.com/item/detail/1109618072) |
 | 作者 B 站主页 | [https://space.bilibili.com/13737731](https://space.bilibili.com/13737731)（短链 https://b23.tv/8POy29x） |
 
 ### 作者的使用须知（摘要）
@@ -38,7 +39,7 @@
 
 > ✅ 本仓库**不托管模型文件**（`pets/dafish/` 只保留使用须知与获取方式说明），
 > 符合作者「禁止擅自重新分发模型文件」的要求。
-> 获取方式：**作者 B 站主页** [https://space.bilibili.com/13737731](https://space.bilibili.com/13737731)（短链 https://b23.tv/8POy29x）。
+> 获取方式：**B 站工房** [https://gf.bilibili.com/item/detail/1109618072](https://gf.bilibili.com/item/detail/1109618072)（作者主页 [https://space.bilibili.com/13737731](https://space.bilibili.com/13737731)）。
 
 ## 插件上游
 

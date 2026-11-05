@@ -6,7 +6,8 @@
 
 免费公开配布，原作者（原画及拆分）：**神宫凉子**
 
-- **B 站主页**：[神宫凉子的个人空间](https://space.bilibili.com/13737731)（短链 https://b23.tv/8POy29x）—— 配布信息与获取方式以作者主页为准
+- **获取地址（B 站工房）**：[大肥鱼模型 · 工房页面](https://gf.bilibili.com/item/detail/1109618072)
+- **作者主页**：[神宫凉子的个人空间](https://space.bilibili.com/13737731)（短链 https://b23.tv/8POy29x）
 - Live2D 建模：**霓虹猫_NeonNeko**
 - 使用前请阅读随模型发布的《DeepSeek 免费 Live2D 模型使用须知》（本目录
   [LICENSE-usage-terms.txt](./LICENSE-usage-terms.txt) 为原文副本）
