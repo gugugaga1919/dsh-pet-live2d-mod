@@ -23,7 +23,7 @@
 ## 附带的模型
 
 - `pets/dafish/` — **不托管模型文件**。大肥鱼（DeepSeek-chan）为免费公开配布的模型，
-  请到 **B 站搜索「神宫凉子」进入作者主页**获取；原画及拆分 **神宫凉子**，Live2D 建模
+  请到 **作者 B 站主页** [https://space.bilibili.com/13737731](https://space.bilibili.com/13737731)（短链 https://b23.tv/8POy29x）获取；原画及拆分 **神宫凉子**，Live2D 建模
   **霓虹猫_NeonNeko**。署名与须知见 [CREDITS.md](./CREDITS.md)，转换方法见
   [pets/dafish/README.md](./pets/dafish/README.md)。
 - `pets/ds-whale-girl/` — 上游自带示例宠物（随 MIT 包分发）。
