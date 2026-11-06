@@ -28,6 +28,15 @@
   [pets/dafish/README.md](./pets/dafish/README.md)。
 - `pets/ds-whale-girl/` — 上游自带示例宠物（随 MIT 包分发）。
 
+## 桌面端（桌面上站着）
+
+插件支持两种呈现：**页面内**（随 DSH 启停）与**桌面上**（原生窗口，DSH 关掉也在），
+设置 → 显示位置里切换。桌面壳是平台子包二进制（macOS arm64 / Windows x64，npm 3.5.0），
+缺失时设置页可一键下载（约 5MB）。
+
+⚠️ 注意：桌面壳的 UI 资源编译在二进制里，**本 fork 的网页端补丁只在「页面内」模式生效**；
+宠物数据（贴图/物理/动作/表情）两边共用。完整说明见 [docs/DESKTOP.md](./docs/DESKTOP.md)。
+
 ## 安装
 
 1. 把本仓库放进 DSH 的 profile 依赖目录：
